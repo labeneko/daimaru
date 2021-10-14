@@ -12,3 +12,4 @@ daimaru/images/2021/10/15/202110150143.jpg
 daimaru/images/2021/10/15/202110150152.jpg
 daimaru/images/2021/10/15/202110150202.jpg
 daimaru/images/2021/10/15/202110150212.jpg
+daimaru/images/2021/10/15/202110150222.jpg
