@@ -140,3 +140,4 @@ daimaru/images/2021/10/15/202110152301.jpg
 daimaru/images/2021/10/15/202110152311.jpg
 daimaru/images/2021/10/15/202110152321.jpg
 daimaru/images/2021/10/15/202110152334.jpg
+daimaru/images/2021/10/15/202110152341.jpg
