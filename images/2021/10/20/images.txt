@@ -17,3 +17,4 @@ daimaru/images/2021/10/20/202110200232.jpg
 daimaru/images/2021/10/20/202110200241.jpg
 daimaru/images/2021/10/20/202110200252.jpg
 daimaru/images/2021/10/20/202110200301.jpg
+daimaru/images/2021/10/20/202110200311.jpg
