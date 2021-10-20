@@ -45,3 +45,4 @@ daimaru/images/2021/10/21/202110210723.jpg
 daimaru/images/2021/10/21/202110210731.jpg
 daimaru/images/2021/10/21/202110210741.jpg
 daimaru/images/2021/10/21/202110210751.jpg
+daimaru/images/2021/10/21/202110210802.jpg
