@@ -36,3 +36,4 @@ daimaru/images/2021/11/08/202111080543.jpg
 daimaru/images/2021/11/08/202111080552.jpg
 daimaru/images/2021/11/08/202111080602.jpg
 daimaru/images/2021/11/08/202111080612.jpg
+daimaru/images/2021/11/08/202111080623.jpg
