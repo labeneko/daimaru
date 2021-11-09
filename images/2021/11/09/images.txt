@@ -120,3 +120,4 @@ daimaru/images/2021/11/09/202111092002.jpg
 daimaru/images/2021/11/09/202111092012.jpg
 daimaru/images/2021/11/09/202111092022.jpg
 daimaru/images/2021/11/09/202111092032.jpg
+daimaru/images/2021/11/09/202111092042.jpg
