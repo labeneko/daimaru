@@ -49,3 +49,4 @@ daimaru/images/2021/11/24/202111240952.jpg
 daimaru/images/2021/11/24/202111241005.jpg
 daimaru/images/2021/11/24/202111241015.jpg
 daimaru/images/2021/11/24/202111241023.jpg
+daimaru/images/2021/11/24/202111241033.jpg
