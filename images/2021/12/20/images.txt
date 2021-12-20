@@ -42,3 +42,4 @@ daimaru/images/2021/12/20/202112201028.jpg
 daimaru/images/2021/12/20/202112201048.jpg
 daimaru/images/2021/12/20/202112201103.jpg
 daimaru/images/2021/12/20/202112201107.jpg
+daimaru/images/2021/12/20/202112201126.jpg
