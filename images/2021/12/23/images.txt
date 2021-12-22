@@ -5,3 +5,4 @@ daimaru/images/2021/12/23/202112230125.jpg
 daimaru/images/2021/12/23/202112230144.jpg
 daimaru/images/2021/12/23/202112230205.jpg
 daimaru/images/2021/12/23/202112230220.jpg
+daimaru/images/2021/12/23/202112230240.jpg
