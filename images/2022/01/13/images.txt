@@ -12,3 +12,4 @@ daimaru/images/2022/01/13/202201130402.jpg
 daimaru/images/2022/01/13/202201130414.jpg
 daimaru/images/2022/01/13/202201130438.jpg
 daimaru/images/2022/01/13/202201130502.jpg
+daimaru/images/2022/01/13/202201130532.jpg
