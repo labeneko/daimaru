@@ -100,3 +100,4 @@ daimaru/images/2022/01/23/202201232044.jpg
 daimaru/images/2022/01/23/202201232059.jpg
 daimaru/images/2022/01/23/202201232105.jpg
 daimaru/images/2022/01/23/202201232116.jpg
+daimaru/images/2022/01/23/202201232141.jpg
