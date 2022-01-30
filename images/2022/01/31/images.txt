@@ -33,3 +33,4 @@ daimaru/images/2022/01/31/202201310639.jpg
 daimaru/images/2022/01/31/202201310700.jpg
 daimaru/images/2022/01/31/202201310718.jpg
 daimaru/images/2022/01/31/202201310733.jpg
+daimaru/images/2022/01/31/202201310743.jpg
