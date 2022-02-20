@@ -67,3 +67,4 @@ daimaru/images/2022/02/20/202202201349.jpg
 daimaru/images/2022/02/20/202202201408.jpg
 daimaru/images/2022/02/20/202202201430.jpg
 daimaru/images/2022/02/20/202202201441.jpg
+daimaru/images/2022/02/20/202202201457.jpg
