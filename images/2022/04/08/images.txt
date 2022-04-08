@@ -75,3 +75,4 @@ daimaru/images/2022/04/08/202204081216.jpg
 daimaru/images/2022/04/08/202204081225.jpg
 daimaru/images/2022/04/08/202204081236.jpg
 daimaru/images/2022/04/08/202204081245.jpg
+daimaru/images/2022/04/08/202204081255.jpg
