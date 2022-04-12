@@ -120,3 +120,4 @@ daimaru/images/2022/04/12/202204121945.jpg
 daimaru/images/2022/04/12/202204121955.jpg
 daimaru/images/2022/04/12/202204122005.jpg
 daimaru/images/2022/04/12/202204122015.jpg
+daimaru/images/2022/04/12/202204122025.jpg
