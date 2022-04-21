@@ -39,3 +39,4 @@ daimaru/images/2022/04/22/202204220520.jpg
 daimaru/images/2022/04/22/202204220525.jpg
 daimaru/images/2022/04/22/202204220530.jpg
 daimaru/images/2022/04/22/202204220536.jpg
+daimaru/images/2022/04/22/202204220545.jpg
