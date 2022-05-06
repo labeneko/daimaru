@@ -158,3 +158,4 @@ daimaru/images/2022/05/06/202205062215.jpg
 daimaru/images/2022/05/06/202205062220.jpg
 daimaru/images/2022/05/06/202205062226.jpg
 daimaru/images/2022/05/06/202205062235.jpg
+daimaru/images/2022/05/06/202205062245.jpg
