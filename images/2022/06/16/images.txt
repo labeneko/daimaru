@@ -48,3 +48,4 @@ daimaru/images/2022/06/16/202206160745.jpg
 daimaru/images/2022/06/16/202206160755.jpg
 daimaru/images/2022/06/16/202206160811.jpg
 daimaru/images/2022/06/16/202206160815.jpg
+daimaru/images/2022/06/16/202206160826.jpg
