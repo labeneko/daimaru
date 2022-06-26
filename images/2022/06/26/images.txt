@@ -99,3 +99,4 @@ daimaru/images/2022/06/26/202206261540.jpg
 daimaru/images/2022/06/26/202206261550.jpg
 daimaru/images/2022/06/26/202206261601.jpg
 daimaru/images/2022/06/26/202206261610.jpg
+daimaru/images/2022/06/26/202206261620.jpg
