@@ -13,3 +13,4 @@ daimaru/images/2022/06/27/202206270150.jpg
 daimaru/images/2022/06/27/202206270200.jpg
 daimaru/images/2022/06/27/202206270210.jpg
 daimaru/images/2022/06/27/202206270220.jpg
+daimaru/images/2022/06/27/202206270226.jpg
