@@ -132,3 +132,4 @@ daimaru/images/2022/07/02/202207022145.jpg
 daimaru/images/2022/07/02/202207022155.jpg
 daimaru/images/2022/07/02/202207022206.jpg
 daimaru/images/2022/07/02/202207022216.jpg
+daimaru/images/2022/07/02/202207022226.jpg
