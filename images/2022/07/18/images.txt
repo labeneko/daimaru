@@ -40,3 +40,4 @@ daimaru/images/2022/07/18/202207180615.jpg
 daimaru/images/2022/07/18/202207180625.jpg
 daimaru/images/2022/07/18/202207180631.jpg
 daimaru/images/2022/07/18/202207180636.jpg
+daimaru/images/2022/07/18/202207180645.jpg
