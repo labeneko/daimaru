@@ -107,3 +107,4 @@ daimaru/images/2022/08/17/202208171736.jpg
 daimaru/images/2022/08/17/202208171745.jpg
 daimaru/images/2022/08/17/202208171755.jpg
 daimaru/images/2022/08/17/202208171805.jpg
+daimaru/images/2022/08/17/202208171815.jpg
