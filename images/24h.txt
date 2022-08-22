@@ -1,4 +1,3 @@
-daimaru/images/2022/08/22/202208220025.jpg
 daimaru/images/2022/08/22/202208220036.jpg
 daimaru/images/2022/08/22/202208220045.jpg
 daimaru/images/2022/08/22/202208220055.jpg
@@ -142,3 +141,4 @@ daimaru/images/2022/08/22/202208222346.jpg
 daimaru/images/2022/08/22/202208222355.jpg
 daimaru/images/2022/08/23/202208230005.jpg
 daimaru/images/2022/08/23/202208230015.jpg
+daimaru/images/2022/08/23/202208230026.jpg
