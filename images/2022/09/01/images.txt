@@ -128,3 +128,4 @@ daimaru/images/2022/09/01/202209012105.jpg
 daimaru/images/2022/09/01/202209012115.jpg
 daimaru/images/2022/09/01/202209012127.jpg
 daimaru/images/2022/09/01/202209012135.jpg
+daimaru/images/2022/09/01/202209012145.jpg
