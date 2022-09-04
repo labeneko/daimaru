@@ -80,3 +80,4 @@ daimaru/images/2022/09/04/202209041306.jpg
 daimaru/images/2022/09/04/202209041315.jpg
 daimaru/images/2022/09/04/202209041326.jpg
 daimaru/images/2022/09/04/202209041335.jpg
+daimaru/images/2022/09/04/202209041345.jpg
