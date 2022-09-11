@@ -12,3 +12,4 @@ daimaru/images/2022/09/12/202209120145.jpg
 daimaru/images/2022/09/12/202209120156.jpg
 daimaru/images/2022/09/12/202209120205.jpg
 daimaru/images/2022/09/12/202209120215.jpg
+daimaru/images/2022/09/12/202209120225.jpg
