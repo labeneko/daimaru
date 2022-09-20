@@ -52,3 +52,4 @@ daimaru/images/2022/09/20/202209200825.jpg
 daimaru/images/2022/09/20/202209200835.jpg
 daimaru/images/2022/09/20/202209200845.jpg
 daimaru/images/2022/09/20/202209200855.jpg
+daimaru/images/2022/09/20/202209200905.jpg
