@@ -95,3 +95,4 @@ daimaru/images/2022/10/04/202210041535.jpg
 daimaru/images/2022/10/04/202210041545.jpg
 daimaru/images/2022/10/04/202210041556.jpg
 daimaru/images/2022/10/04/202210041605.jpg
+daimaru/images/2022/10/04/202210041615.jpg
